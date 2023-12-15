@@ -1,7 +1,7 @@
 # Learning-to-runUbuntu-Virtual-Box-Running-Windows-10-ISO-file
 This repository definately benifits you with the information like:
 -How to run the Ubuntu Virtual Box in (Ubuntu 20.04.4 LTS).
--How to run the Windows 10 Disc Image (ISO File)
+-How to run the Windows 10 Disc Image (ISO File) in Ubuntu Virtual Box.
 Lets dig in.
 First step is to download the Windows 10 Disc Image (ISO File) ,link(https://www.microsoft.com/en-us/software-download/windows10ISO). 
 
